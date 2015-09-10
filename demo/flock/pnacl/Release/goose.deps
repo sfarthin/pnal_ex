@@ -1,0 +1,24 @@
+# Updated by fix_deps.py
+pnacl/Release/goose.o: goose.cc goose.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/cpp/rect.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_rect.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_macros.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_point.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_stdint.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_size.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/cpp/point.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/cpp/size.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/cpp/logging.h \
+  vector2.h
+goose.cc:
+goose.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/cpp/rect.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_rect.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_macros.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_point.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_stdint.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_size.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/cpp/point.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/cpp/size.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/cpp/logging.h:
+vector2.h:

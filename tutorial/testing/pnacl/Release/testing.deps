@@ -1,0 +1,89 @@
+# Updated by fix_deps.py
+pnacl/Release/testing.o: testing.cc \
+  /Users/stevefar/nacl_sdk/pepper_45/include/gtest/gtest.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/gtest/internal/gtest-internal.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/gtest/internal/gtest-port.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/gtest/internal/gtest-tuple.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/gtest/gtest-message.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/gtest/internal/gtest-string.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/gtest/internal/gtest-filepath.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/gtest/internal/gtest-type-util.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/gtest/gtest-death-test.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/gtest/internal/gtest-death-test-internal.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/gtest/gtest-param-test.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/gtest/internal/gtest-param-util.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/gtest/internal/gtest-linked_ptr.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/gtest/gtest-printers.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/gtest/internal/gtest-param-util-generated.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/gtest/gtest_prod.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/gtest/gtest-test-part.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/gtest/gtest-typed-test.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/gtest/gtest_pred_impl.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/cpp/instance.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_instance.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_macros.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_stdint.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_resource.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/ppb_console.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_bool.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_var.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/cpp/instance_handle.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/cpp/view.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/cpp/resource.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/cpp/pass_ref.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/cpp/rect.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_rect.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_point.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_size.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/cpp/point.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/cpp/size.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/cpp/logging.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/cpp/var.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi_simple/ps_main.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi_simple/ps.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/sdk_util/macros.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi_simple/ps_event.h
+testing.cc:
+/Users/stevefar/nacl_sdk/pepper_45/include/gtest/gtest.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/gtest/internal/gtest-internal.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/gtest/internal/gtest-port.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/gtest/internal/gtest-tuple.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/gtest/gtest-message.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/gtest/internal/gtest-string.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/gtest/internal/gtest-filepath.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/gtest/internal/gtest-type-util.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/gtest/gtest-death-test.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/gtest/internal/gtest-death-test-internal.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/gtest/gtest-param-test.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/gtest/internal/gtest-param-util.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/gtest/internal/gtest-linked_ptr.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/gtest/gtest-printers.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/gtest/internal/gtest-param-util-generated.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/gtest/gtest_prod.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/gtest/gtest-test-part.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/gtest/gtest-typed-test.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/gtest/gtest_pred_impl.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/cpp/instance.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_instance.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_macros.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_stdint.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_resource.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/ppb_console.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_bool.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_var.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/cpp/instance_handle.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/cpp/view.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/cpp/resource.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/cpp/pass_ref.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/cpp/rect.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_rect.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_point.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_size.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/cpp/point.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/cpp/size.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/cpp/logging.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/cpp/var.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi_simple/ps_main.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi_simple/ps.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/sdk_util/macros.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi_simple/ps_event.h:
