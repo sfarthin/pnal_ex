@@ -1,0 +1,65 @@
+# Updated by fix_deps.py
+pnacl/Release/nacl_io_demo.o: nacl_io_demo.c nacl_io_demo.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_instance.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_macros.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_stdint.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_var.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_bool.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/ppb_var.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_module.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_resource.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/ppb_var_array.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/ppb_var_dictionary.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/sdk_util/macros.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/pnacl/sys/ioctl.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/pnacl/sys/mount.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/pnacl/sys/select.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/pnacl/sys/time.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_errors.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/ppb.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/ppb_instance.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/ppb_messaging.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/ppp_message_handler.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/ppp.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/ppp_instance.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_point.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_rect.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_size.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/ppp_messaging.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/nacl_io/ioctl.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/nacl_io/nacl_io.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/nacl_io/ostypes.h \
+  handlers.h queue.h
+nacl_io_demo.c:
+nacl_io_demo.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_instance.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_macros.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_stdint.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_var.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_bool.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/ppb_var.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_module.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_resource.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/ppb_var_array.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/ppb_var_dictionary.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/sdk_util/macros.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/pnacl/sys/ioctl.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/pnacl/sys/mount.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/pnacl/sys/select.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/pnacl/sys/time.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_errors.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/ppb.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/ppb_instance.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/ppb_messaging.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/ppp_message_handler.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/ppp.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/ppp_instance.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_point.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_rect.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_size.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/ppp_messaging.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/nacl_io/ioctl.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/nacl_io/nacl_io.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/nacl_io/ostypes.h:
+handlers.h:
+queue.h:

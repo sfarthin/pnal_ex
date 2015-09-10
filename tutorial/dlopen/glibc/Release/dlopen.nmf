@@ -1,0 +1,92 @@
+{
+  "files": {
+    "main.nexe": {
+      "x86-64": {
+        "url": "dlopen_x86_64.nexe"
+      },
+      "x86-32": {
+        "url": "dlopen_x86_32.nexe"
+      }
+    },
+    "libstdc++.so.6": {
+      "x86-64": {
+        "url": "lib64/libstdc++.so.6"
+      },
+      "x86-32": {
+        "url": "lib32/libstdc++.so.6"
+      }
+    },
+    "libppapi_cpp.so": {
+      "x86-64": {
+        "url": "lib64/libppapi_cpp.so"
+      },
+      "x86-32": {
+        "url": "lib32/libppapi_cpp.so"
+      }
+    },
+    "libc.so.4e5aab57": {
+      "x86-64": {
+        "url": "lib64/libc.so.4e5aab57"
+      },
+      "x86-32": {
+        "url": "lib32/libc.so.4e5aab57"
+      }
+    },
+    "libgcc_s.so.1": {
+      "x86-64": {
+        "url": "lib64/libgcc_s.so.1"
+      },
+      "x86-32": {
+        "url": "lib32/libgcc_s.so.1"
+      }
+    },
+    "libdl.so.4e5aab57": {
+      "x86-64": {
+        "url": "lib64/libdl.so.4e5aab57"
+      },
+      "x86-32": {
+        "url": "lib32/libdl.so.4e5aab57"
+      }
+    },
+    "libeightball.so": {
+      "x86-64": {
+        "url": "lib64/libeightball_x86_64.so"
+      },
+      "x86-32": {
+        "url": "lib32/libeightball_x86_32.so"
+      }
+    },
+    "libm.so.4e5aab57": {
+      "x86-64": {
+        "url": "lib64/libm.so.4e5aab57"
+      },
+      "x86-32": {
+        "url": "lib32/libm.so.4e5aab57"
+      }
+    },
+    "libpthread.so.4e5aab57": {
+      "x86-64": {
+        "url": "lib64/libpthread.so.4e5aab57"
+      },
+      "x86-32": {
+        "url": "lib32/libpthread.so.4e5aab57"
+      }
+    },
+    "libnacl_io.so": {
+      "x86-64": {
+        "url": "lib64/libnacl_io.so"
+      },
+      "x86-32": {
+        "url": "lib32/libnacl_io.so"
+      }
+    }
+  },
+  "program": {
+    "x86-64": {
+      "url": "lib64/runnable-ld.so"
+    },
+    "x86-32": {
+      "url": "lib32/runnable-ld.so"
+    }
+  }
+}

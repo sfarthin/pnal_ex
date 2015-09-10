@@ -1,0 +1,51 @@
+# Updated by fix_deps.py
+pnacl/Release/flock.o: flock.cc \
+  /Users/stevefar/nacl_sdk/pepper_45/include/pnacl/sys/mount.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_rect.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_macros.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_point.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_stdint.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_size.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi_simple/ps_context_2d.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_resource.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/ppb_graphics_2d.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_bool.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_completion_callback.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_instance.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/ppb_image_data.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi_simple/ps_event.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_var.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/sdk_util/macros.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi_simple/ps_main.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi_simple/ps.h goose.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/cpp/rect.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/cpp/point.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/cpp/size.h \
+  /Users/stevefar/nacl_sdk/pepper_45/include/ppapi/cpp/logging.h \
+  vector2.h sprite.h
+flock.cc:
+/Users/stevefar/nacl_sdk/pepper_45/include/pnacl/sys/mount.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_rect.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_macros.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_point.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_stdint.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_size.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi_simple/ps_context_2d.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_resource.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/ppb_graphics_2d.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_bool.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_completion_callback.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_instance.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/ppb_image_data.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi_simple/ps_event.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/c/pp_var.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/sdk_util/macros.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi_simple/ps_main.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi_simple/ps.h:
+goose.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/cpp/rect.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/cpp/point.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/cpp/size.h:
+/Users/stevefar/nacl_sdk/pepper_45/include/ppapi/cpp/logging.h:
+vector2.h:
+sprite.h:
